@@ -119,6 +119,9 @@ The final data pipeline feeds a **Databricks Dashboard** that provides a unified
 - **Sales by Category**
   Provided a breakdown of top-performing product lines to assist inventory planning.
 
+  <img width="1402" height="661" alt="image" src="https://github.com/user-attachments/assets/a50371b6-f50f-47a1-9831-d33af7f9be06" />
+
+
 ---
 
 ## 🔮 Future Improvements (Production Considerations)
